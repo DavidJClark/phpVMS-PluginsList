@@ -10,3 +10,4 @@ DavidJClark/phpVMS-VatsimReader/archive/master.zip+Simpilotgroup Vatsim Data Rea
 DavidJClark/phpVMS-Timetable/archive/master.zip+Simpilotgroup Timetable
 DavidJClark/phpVMS-VanillaBridge/archive/master.zip+Simpilotgroup Vanilla Bridge
 savamarkovic/phpvms_hubtransfer/archive/master.zip+savamarkovic Hub Transfer
+DavidJClark/Rules_and_Regulations_by_phpmods/archive/master.zip+phpMODS Rules And Regulations
