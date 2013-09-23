@@ -9,4 +9,4 @@ DavidJClark/phpVMS-TouchdownSats/archive/master.zip+Simpilotgroup Touchdown Stat
 DavidJClark/phpVMS-VatsimReader/archive/master.zip+Simpilotgroup Vatsim Data Reader
 DavidJClark/phpVMS-Timetable/archive/master.zip+Simpilotgroup Timetable
 DavidJClark/phpVMS-VanillaBridge/archive/master.zip+Simpilotgroup Vanilla Bridge
-savamarkovic/phpvms_hubtransfer/archive/master.zip+phpMODS Hub Transfer
+savamarkovic/phpvms_hubtransfer/archive/master.zip+savamarkovic Hub Transfer
