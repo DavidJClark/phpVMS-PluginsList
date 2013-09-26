@@ -1,7 +1,7 @@
-DavidJClark/phpVMS-Event-Booking/archive/master.zip+Simpilotgroup Event Booking (php)
-DavidJClark/phpVMS-Event-Booking/archive/v1.3.zip+Simpilotgroup Event Booking (tpl)
-DavidJClark/phpVMS-AirMail/archive/master.zip+Simpilotgroup Air Mail (php)
-DavidJClark/phpVMS-AirMail/archive/3.1.zip+Simpilotgroup Air Mail (tpl)
+DavidJClark/phpVMS-Event-Booking/archive/master.zip+Simpilotgroup Event Booking 2.x (php)
+DavidJClark/phpVMS-Event-Booking/archive/v1.3.zip+Simpilotgroup Event Booking 1.3 (tpl)
+DavidJClark/phpVMS-AirMail/archive/master.zip+Simpilotgroup Air Mail 4.x (php)
+DavidJClark/phpVMS-AirMail/archive/3.1.zip+Simpilotgroup Air Mail 3.1 (tpl)
 DavidJClark/phpVMS-ScreenShotCenter/archive/master.zip+Simpilotgroup ScreenShot Center
 DavidJClark/phpVMS-PopUpNews/archive/master.zip+Simpilotgroup PopUpNews
 DavidJClark/phpVMS-Credits/archive/master.zip+Simpilotgroup Credits
