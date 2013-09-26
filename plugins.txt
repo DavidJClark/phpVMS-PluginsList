@@ -2,9 +2,12 @@ DavidJClark/phpVMS-Event-Booking/archive/master.zip+Simpilotgroup Event Booking 
 DavidJClark/phpVMS-Event-Booking/archive/v1.3.zip+Simpilotgroup Event Booking 1.3 (tpl)
 DavidJClark/phpVMS-AirMail/archive/master.zip+Simpilotgroup Air Mail 4.x (php)
 DavidJClark/phpVMS-AirMail/archive/3.1.zip+Simpilotgroup Air Mail 3.1 (tpl)
-DavidJClark/phpVMS-ScreenShotCenter/archive/master.zip+Simpilotgroup ScreenShot Center
-DavidJClark/phpVMS-PopUpNews/archive/master.zip+Simpilotgroup PopUpNews
-DavidJClark/phpVMS-Credits/archive/master.zip+Simpilotgroup Credits
+DavidJClark/phpVMS-ScreenShotCenter/archive/master.zip+Simpilotgroup ScreenShot Center 3.0 (php)
+DavidJClark/phpVMS-ScreenShotCenter/archive/2.0.zip+Simpilotgroup ScreenShot Center 2.0 (tpl)
+DavidJClark/phpVMS-PopUpNews/archive/master.zip+Simpilotgroup PopUpNews 3.x (php)
+DavidJClark/phpVMS-PopUpNews/archive/2.1.zip+Simpilotgroup PopUpNews 2.1 (tpl)
+DavidJClark/phpVMS-Credits/archive/master.zip+Simpilotgroup Credits 2.0 (php)
+DavidJClark/phpVMS-Credits/archive/1.0.zip+Simpilotgroup Credits 1.0 (tpl)
 DavidJClark/phpVMS-ExamCenter/archive/master.zip+Simpilotgroup Exam Center
 DavidJClark/phpVMS-TopPilot/archive/master.zip+Simpilotgroup Top Pilots
 DavidJClark/phpVMS-TouchdownSats/archive/master.zip+Simpilotgroup Touchdown Stats
