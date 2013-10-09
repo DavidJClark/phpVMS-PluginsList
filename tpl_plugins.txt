@@ -4,7 +4,7 @@ DavidJClark/phpVMS-ScreenShotCenter/archive/2.0.zip+Simpilotgroup ScreenShot Cen
 DavidJClark/phpVMS-PopUpNews/archive/2.1.zip+Simpilotgroup PopUpNews 2.1 (tpl)
 DavidJClark/phpVMS-Credits/archive/1.0.zip+Simpilotgroup Credits 1.0 (tpl)
 DavidJClark/phpVMS-ExamCenter/archive/master.zip+Simpilotgroup Exam Center (tpl)
-DavidJClark/phpVMS-TopPilot/archive/master.zip+Simpilotgroup Top Pilots (tpl)
+DavidJClark/phpVMS-TopPilot/archive/1.0.zip+Simpilotgroup Top Pilots (tpl)
 DavidJClark/phpVMS-TouchdownSats/archive/master.zip+Simpilotgroup Touchdown Stats (tpl)
 DavidJClark/phpVMS-VatsimReader/archive/master.zip+Simpilotgroup Vatsim Data Reader (tpl)
 DavidJClark/phpVMS-Timetable/archive/master.zip+Simpilotgroup Timetable (tpl)
